@@ -3,7 +3,7 @@ function saudacao() {
 }
 
 function executar(callback) {
-    console.log("Iniciando processo...")
+    console.log("Iniciando processo...");
     callback();
 }
 
